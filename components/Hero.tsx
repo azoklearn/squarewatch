@@ -56,7 +56,7 @@ export default function Hero() {
       >
         <motion.div style={{ y: py }} className="absolute inset-0">
           <video
-            src="/hero.mp4"
+            src="https://patek-res.cloudinary.com/video/upload/f_auto:video/dfsmedia/0906caea301d42b3b8bd23bd656d1711/448646-source/pp-2026-new-models-banner-16-9-product-highlights"
             autoPlay
             muted
             loop
@@ -64,7 +64,7 @@ export default function Hero() {
             preload="auto"
             poster="/imagesite.jpg"
             className="h-full w-full object-cover"
-            style={{ filter: "contrast(1.06) brightness(0.78) saturate(0.92)" }}
+            style={{ filter: "contrast(1.04) brightness(0.72) saturate(0.85)" }}
           />
         </motion.div>
       </motion.div>
